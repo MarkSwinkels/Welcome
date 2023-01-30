@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @MarkSwinkels
-- 👀 I’m interested in Azure, Hyper-V, System Center
-- 🌱 I’m currently learning Azure Architect
+- 💙 I’m interested in Azure, Hyper-V, Windows Server and automation
+- 💥 Senior Solution Consultant @Ictivity and Technical Teamlead of the Cloud Infrastructure team
 - 📫 How to reach me https://www.markswinkels.nl
+- 👀 Find me on Twitter @Mark_Swinkels
+- 🌀 Find me on LinkedIn (linkedin.com/in/mark-swinkels-02b0a115)
+Feel free to contact me if you have any questions!!
 
 <!---
 MarkSwinkels/MarkSwinkels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
