@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkSwinkels
 - 💙 I’m interested in Azure, Hyper-V, Windows Server and automation
-- 💥 Github / Terraform / Bicp / ARM / Powershell
+- 💥 Github / Terraform / Bicep / ARM / Powershell
 - 💥 Senior Solution Consultant @Ictivity and Technical Teamlead of the Cloud Infrastructure team
 - 📫 Writing blogs on my personal blog @ https://www.markswinkels.nl
 - 👀 Find me on Twitter @Mark_Swinkels
